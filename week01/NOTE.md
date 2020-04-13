@@ -6,7 +6,7 @@
 
 
 
-<img src="/Users/luxiqiang/Desktop/学习资料/前端/前端训练营--极客时间/前端技术框架/前端技术.png" alt="前端技术" style="zoom:50%;" />
+{% asset_img 前端技术.png %}
 
 
 
