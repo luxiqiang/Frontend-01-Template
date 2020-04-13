@@ -6,7 +6,7 @@
 
 
 
-{% asset_img 前端技术.png %}
+![image](week01/前端技术.png)
 
 
 
