@@ -6,7 +6,7 @@
 
 
 
-![image](week01/前端技术.png)
+![image](前端技术.png)
 
 
 
